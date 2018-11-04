@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/11/4 16:34:30。
+     1>项目“F:\比特\比特作业\ThreeChess\ThreeChess\ThreeChess.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\bit\新建文件夹 (2)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt game.c
+         game.c
+     1>f:\比特\比特作业\threechess\threechess\game.c(62): warning C4013: “IsFull”未定义；假设外部返回 int
+       Link:
+         F:\bit\新建文件夹 (2)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\比特\比特作业\ThreeChess\Debug\ThreeChess.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\比特\比特作业\ThreeChess\Debug\ThreeChess.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\比特\比特作业\ThreeChess\Debug\ThreeChess.lib" /MACHINE:X86 Debug\game.obj
+         Debug\main.obj
+         ThreeChess.vcxproj -> F:\比特\比特作业\ThreeChess\Debug\ThreeChess.exe
+     1>已完成生成项目“F:\比特\比特作业\ThreeChess\ThreeChess\ThreeChess.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.25
