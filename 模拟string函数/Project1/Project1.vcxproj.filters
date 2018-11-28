@@ -36,5 +36,14 @@
     <ClCompile Include="..\..\zuoyeday15\zuoyeday15\模拟strcpy.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="模拟strncpy.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模拟strncat.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模拟strncmp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

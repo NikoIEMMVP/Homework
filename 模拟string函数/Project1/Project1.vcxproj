@@ -71,6 +71,9 @@
     <ClCompile Include="模拟memcpy.c" />
     <ClCompile Include="模拟strcmp.c" />
     <ClCompile Include="模拟strlen.c" />
+    <ClCompile Include="模拟strncat.c" />
+    <ClCompile Include="模拟strncmp.c" />
+    <ClCompile Include="模拟strncpy.c" />
     <ClCompile Include="模拟strstr.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
